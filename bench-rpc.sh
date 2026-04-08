@@ -2,7 +2,7 @@
 
 
 # Configuração RPC Fixa
-RPC_SERVER="192.168.200.1:50052"  # IP e porta do Host
+RPC_SERVER="<IP_DO_HOST>:50052"  # IP e porta do Host
 
 
 # Caminhos
