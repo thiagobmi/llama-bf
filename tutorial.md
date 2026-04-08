@@ -49,4 +49,4 @@ Depois, volte para o terminal da **DPU (BF2)** e rode o script de teste RPC:
 
 ---
 
-**📊 Resultados:** O progresso do teste aparecerá no terminal. Ao final da execução, as tabelas com as métricas de tokens por segundo (t/s) de ambos os testes serão salvas automaticamente na pasta `resultados/` em formato `.md`, prontas para inclusão no documento do TCC.
+**📊 Resultados:** O progresso do teste aparecerá no terminal. Ao final da execução, as tabelas com as métricas de tokens por segundo (t/s) de ambos os testes serão salvas automaticamente na pasta `resultados/` em formato `.md`.
